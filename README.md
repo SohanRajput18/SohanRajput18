@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Web Dev
 - 📫 How to reach me http://www.linkedin.com/in/sohanrajput18
-- 😄 Pronouns: ...
 - ⚡ Fun fact: "Turning coffee into code since 2023." ☕💻
 
 <!---
